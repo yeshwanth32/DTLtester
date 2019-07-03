@@ -1,0 +1,1 @@
+DTLTester.jar C:\Users\yeshw\Desktop\DTL-Research\SourceCode\SourceCode\DTLTester\src\Ranger-DTL.win C:\Users\yeshw\Desktop\DTL-Research\SourceCode\SourceCode\DTLTester\src\Ranger-DTL-Fast.win C:\Users\yeshw\Desktop\DTL-Research\Win\Win\NewTestData\seqs4\COG 30 30
